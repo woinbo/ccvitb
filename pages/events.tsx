@@ -11,6 +11,7 @@ type Event = {
   content?: string;
   link?: string;
   date?: string;
+  cover?: string;
 };
 
 type EventData = {

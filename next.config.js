@@ -4,7 +4,7 @@ module.exports = {
         "/": { page: "/" },
         "/team": { page: "/team" },
         "/articles": { page: "/articles" },
-        "/badges": { page: "/badges" },
+        "/leaderBoard": { page: "/leaderBoard" },
         "/events": { page: "/events" },
       };
     },

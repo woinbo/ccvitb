@@ -12,9 +12,9 @@ const Events = () => (
       <TextGroup>
         <Title>Events</Title>
         <Info>
-          The platform where we share knowledge and grow collectively..!!
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
           <br />
-          Hop on to see our past events and stay in the loop for new ones.
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
         </Info>
         <Flex>
           <Link href="/events">

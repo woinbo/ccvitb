@@ -10,13 +10,13 @@ const About = () => {
         <TextGroup>
           <Title>About</Title>
           <Info>
-            Developer Student Clubs is an initiative of Google Developers.
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
             <LeftAlign>
-            Our primary intention is to promote all-round development of students through interactive sessions, events, workshops and projects that help them perceive real-world probems. We strive hard to educate and guide our members by equipping them with technical and management skills, thereby enabling them to make significant contributions towards the community.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
               <br />
               <br />
-              Our primary intention is to promote all-round development of students through interactive sessions, events, workshops and projects that help them perceive real-world probems. We strive hard to educate and guide our members by equipping them with technical and management skills, thereby enabling them to make significant contributions towards the community.
-            </LeftAlign>
+              It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+              </LeftAlign>
           </Info>
         </TextGroup>
       </Container>

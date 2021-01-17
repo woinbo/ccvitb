@@ -13,9 +13,9 @@ const Article = () => {
         <TextGroup>
           <Title>Read our articles</Title>
           <Info>
-            Check out the stories that we want the world to see...!
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
             <br />
-            From documents to tutorials we have it all...!
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
           </Info>
           <Flex>
             <Link href="/articles">

@@ -12,9 +12,9 @@ const Team = () => (
       <TextGroup>
         <Title>Meet the team</Title>
         <Info>
-          Get to know the people behind the scenes.
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
           <br />
-          The driving force of this community.
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry.
         </Info>
         <Flex>
           <Link href="/team">
