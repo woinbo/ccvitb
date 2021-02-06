@@ -1,0 +1,208 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f9f9f9;
+}
+
+path {
+  /* path */
+  position: absolute;
+  width: 4564px;
+  height: 581px;
+  left: -4px;
+  top: 0px;
+
+  background: #4a74f5;
+  border: 2px solid #4a74f5;
+  box-shadow: 0px 4px 32px rgba(0, 63, 255, 0.81);
+}
+
+.logo {
+  position: absolute;
+  width: 200px;
+  left: 120px;
+  top: 55px;
+}
+
+.menu-items {
+  display: inline;
+  text-decoration: none;
+  list-style-type: none;
+  padding: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 0px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.location {
+  position: absolute;
+  right: 120px;
+  top: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+/* Rectangle */
+
+.rect {
+  position: absolute;
+  width: 1200px;
+  max-width: 100%;
+  left: 90px;
+  top: 70px;
+}
+
+.cc_shadow_logo {
+  /* ccwhite (1) 1 */
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  left: 625px;
+  top: 200px;
+}
+
+.cc_vit_chapter {
+  position: absolute;
+  width: 400px;
+  left: 490px;
+  top: 320px;
+}
+
+.sign-up-today {
+  position: absolute;
+  width: 300px;
+  height: 80px;
+  left: 550px;
+  top: 680px;
+  border: none;
+
+  background: #4a74f5;
+  border-radius: 82px;
+  cursor: pointer;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 0.175em;
+  color: #ffffff;
+  transition: 0.4s;
+}
+
+.sign-up-today.focus,
+.sign-up-today:focus {
+  outline: 0;
+  box-shadow: none !important;
+  filter: drop-shadow(0px 0px 18px #4a74f5);
+}
+
+.sign-up-today.hover,
+.sign-up-today:hover {
+  outline: 0;
+  box-shadow: none !important;
+  filter: drop-shadow(0px 0px 18px #4a74f5);
+}
+
+.about-us-div {
+  position: absolute;
+  width: 100%;
+  max-width: 1300px;
+  height: 800px;
+  left: 120px;
+  top: 1000px;
+
+  background: #ffffff;
+  box-shadow: 0px 34px 76px -41px rgba(0, 0, 0, 0.25);
+  border-radius: 32px;
+  z-index: -2;
+}
+
+.about-us-img {
+  position: absolute;
+  width: 80%;
+  right: 0%;
+  bottom: 0%;
+  z-index: -1;
+}
+
+h1.about-us-heading {
+  position: absolute;
+  width: 225px;
+  height: 74px;
+  left: 6%;
+  top: 2%;
+
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: 350;
+  font-size: 56px;
+  line-height: 74px;
+
+  color: #000000;
+}
+
+.para-about-us-one {
+  position: absolute;
+  width: 600px;
+  height: 252px;
+  left: 6%;
+  top: 16%;
+
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: 350;
+  font-size: 25px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+h1.about-us-heading-two {
+  position: absolute;
+  width: 389px;
+  height: 74px;
+  left: 6%;
+  top: 50%;
+
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: 350;
+  font-size: 56px;
+  line-height: 74px;
+
+  color: #000000;
+}
+
+.para-about-us-two {
+  position: absolute;
+  width: 600px;
+  height: 252px;
+  left: 6%;
+  top: 64%;
+
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: 350;
+  font-size: 25px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+.events_img {
+  position: absolute;
+  width: 40%;;
+  left: 30%;
+  right: 13.7%;
+  top: 250%;
+  bottom: 0%;
+}
+
